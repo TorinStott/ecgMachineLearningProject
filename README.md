@@ -6,3 +6,6 @@ pip install pandas <br>
 pip install scipi <br>
 pip install sklearn <br>
 pip install setuptools <br>
+## Dataset
+https://archive.ics.uci.edu/ml/datasets/echocardiogram <br>
+*note column descriptions are stored in echocardiogram.names file
