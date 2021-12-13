@@ -1,5 +1,5 @@
 # ecgMachineLearningProject
-All code was run using Python version 3.6 using the Spyder IDE
+All code was run using Python version 3.6, Spyder IDE, and Anaconda
 
 ## Run the following commands to install the necessary dependencies
 pip install pandas <br>
