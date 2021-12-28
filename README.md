@@ -6,6 +6,11 @@ pip install pandas <br>
 pip install scipi <br>
 pip install sklearn <br>
 pip install setuptools <br>
+## Individual training models can be run in console
+```console
+s@ubuntu:~$ runKNN()
+
+```
 ## Dataset
 https://archive.ics.uci.edu/ml/datasets/echocardiogram <br>
 *note column descriptions are stored in echocardiogram.names file
